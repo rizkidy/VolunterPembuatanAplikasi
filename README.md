@@ -8,3 +8,4 @@ Repository ini digunakan untuk belajar materi Git &amp; GitHub pada SIB Dicoding
 Berikut daftar Volunter yang diterima:
 
 * Rizki Dwi Yulianto, [Instagram](https://www.instagram.com/rizkidy_/).
+* Muchammad Dita Sifa, [Instagram](https://www.instagram.com/mch.dita/).
